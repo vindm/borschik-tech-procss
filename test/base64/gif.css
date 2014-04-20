@@ -1,0 +1,10 @@
+a
+{
+    background-color: white;
+    background-image: url(1.gif) /* borschik.base64() */;
+}
+
+b
+{
+    background: url(1.gif), url(1.gif) /* borschik.base64() */;
+}

@@ -15,11 +15,11 @@
         "coverage": "make coverage"
     },
     "dependencies": {
-        "vow": "0.3.10",
         "inherit": "2.1.0"
     },
-    "peerDependencies": {
-        "borschik": "0.4.x"
+    "devDependencies": {
+        "borschik": "0.4.x",
+        "mocha": "*"
     },
     "license": "MIT",
     "engines": [
